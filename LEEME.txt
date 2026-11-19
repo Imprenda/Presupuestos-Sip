@@ -1,0 +1,9 @@
+SIPESA PRESUPUESTOS v2.0
+
+1. Abre index.html en un navegador moderno. Para usarla desde el iPhone como icono permanente, publica este archivo en un alojamiento HTTPS y abre la URL en Safari > Compartir > Añadir a pantalla de inicio.
+2. Introduce una estancia y añade puertas/ventanas en sus pestañas. Selecciona individualmente si se descuentan. Pulsa Guardar estancia.
+3. En Presupuesto, añade paredes/techos medidos y edita los precios, además de otras partidas. Introduce datos del cliente y pulsa Generar PDF / Imprimir. En iPhone, guarda como PDF desde la vista de impresión/compartir.
+4. En Obras guardadas, guarda la obra y exporta copias JSON periódicas. Los datos se guardan localmente en el navegador y no se sincronizan entre dispositivos.
+5. No incluye servidor ni autenticación. El IVA inicial del 21% es editable. Revisa mediciones, criterios de descuentos y fiscalidad antes de emitir presupuestos definitivos.
+
+La aplicación NO usa dependencias externas y funciona sin conexión una vez cargado el archivo.
